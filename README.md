@@ -1,3 +1,3 @@
 # Hello-France
 
-localement
+local
